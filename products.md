@@ -20,10 +20,10 @@ However, Shopify only support for only **1 product page template** to customize 
 > > ?view=**product.templatename**.
 
 > at the end of product url which redirect is product template name. 
-> Artemis support more 3 product template name \(**redirect, bundle, extended**\). The default template can switch with no view name \(?view=\).  
+> Handy support more 3 product template name \(**redirect, bundle, extended**\). The default template can switch with no view name \(?view=\).  
 > Eg.
 >
-> * [https://electro-demo.myshopify.com/products/black-fashion-zapda-shoes\*\*?view=bundle\*\*](https://electro-demo.myshopify.com/products/black-fashion-zapda-shoes**?view=bundle**)
+> * [https://Handy-demo.myshopify.com/products/black-fashion-zapda-shoes\*\*?view=bundle\*\*](https://Handy-demo.myshopify.com/products/black-fashion-zapda-shoes**?view=bundle**)
 
 3. Add link text **?view=templatename** after /editor in the URL ** **of step 2** and click **Enter\*\* to refresh and customize another page template section.
 

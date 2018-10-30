@@ -35,7 +35,7 @@ Static sections are always in specific locations on your online store. You can [
 
 You can [add](https://help.shopify.com/en/manual/using-themes/change-the-layout/theme-settings/sections-and-settings#add-dynamic-sections), [rearrange](https://help.shopify.com/en/manual/using-themes/change-the-layout/theme-settings/sections-and-settings#rearrange-dynamic-sections), and [remove](https://help.shopify.com/en/manual/using-themes/change-the-layout/theme-settings/sections-and-settings#remove-dynamic-sections) dynamic sections to customize the layout of your home page. Each theme has a unique set of dynamic sections to choose from.
 
-**Shopify Dynamic sections now only support for Homepages. The Electro theme now support multi dynamic sections:        
+**Shopify Dynamic sections now only support for Homepages. The Handy theme now support multi dynamic sections:        
 **![](/assets/list dynamic section.png)
 
 ---

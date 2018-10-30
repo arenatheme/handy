@@ -8,7 +8,7 @@ More detail [https://help.shopify.com/en/manual/products/metafields](https://hel
 
 ---
 
-### Adding supported Meta field for Electro Theme
+### Adding supported Meta field for Handy Theme
 
 1. Currently, **custom field extensions** only support **Chrome browser** so to use you must install this browser. [Download and install here](https://www.google.com/intl/en/chrome/browser/desktop/index.html)
 
@@ -25,7 +25,7 @@ More detail [https://help.shopify.com/en/manual/products/metafields](https://hel
 
 4. List of **Meta field** Arena support use  
 
-![](/assets/metafield artemis.png)
+![](/assets/metafield Handy.png)
 
 **Collection Page**
 

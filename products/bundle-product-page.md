@@ -1,5 +1,5 @@
 Take a look at the demo to see how it should end up functioning: 
-https://arena-artemis.myshopify.com/products/blue-bandeau-bikini-top
+https://arena-Handy.myshopify.com/products/blue-bandeau-bikini-top
 
 We only support group for 3 products.
 ### Add 2 Metafields for Bundle Product
