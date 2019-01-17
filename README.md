@@ -1,7 +1,9 @@
-## Getting started with Handy
+## Getting started with FLINTO
 
-Document Online version: https://legacy.gitbook.com/read/book/arenatheme/Handy
+Full Online Documentation 
 
+**https://arenatheme.gitlab.io/flinto-documentation/
+**
 
 ###New to Shopify?
 
@@ -13,7 +15,6 @@ If you're setting up a Shopify store for the first time, we recommend taking a g
 If you have any questions that are beyond the scope of this help file, please feel free to send us a message to <a href="mailto:support@arenathemes.com">support@arenathemes.com</a>
 
 If you are satisfied with our themes, please rate us 5 stars at [ThemeForest Download Tab](https://themeforest.net/downloads). It encourages us to continue the research to optimize our products and services.
-
 
 
 **THANK YOU FOR PURCHASING OUR THEME !**
